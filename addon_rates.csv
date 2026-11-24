@@ -1,0 +1,6 @@
+addon_code,description,rate,unit,free_allowance
+PHYSIO,Physiotherapy session,800.00,per session,
+DOCTOR_VISIT,Doctor visit,1500.00,per visit,2 per month free
+SPECIAL_DIET,Special diet,4000.00,per month,
+ESCORT,Escort for outside appointment,1200.00,per trip,
+CONSUMABLE_HANDLING,Handling on consumables,10.00,pct of actuals,capped at Rs 2000 per month

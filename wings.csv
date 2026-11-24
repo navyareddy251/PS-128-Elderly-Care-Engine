@@ -1,0 +1,4 @@
+wing_id,wing_name,memory_wing
+WING-A,Tulsi Wing (assisted living),false
+WING-B,Champa Wing (enhanced care),false
+WING-M,Smriti Wing (memory care),true

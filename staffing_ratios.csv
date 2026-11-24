@@ -1,0 +1,6 @@
+role,care_level,day_ratio,night_ratio,notes
+CAREGIVER,LEVEL_1,8,16,night halves the requirement
+CAREGIVER,LEVEL_2,5,10,night halves the requirement
+CAREGIVER,LEVEL_3,3,3,
+CAREGIVER,LEVEL_4,2,2,
+NURSE,,20,40,min 1 per wing per shift; 15 for 14 days after a medication error
