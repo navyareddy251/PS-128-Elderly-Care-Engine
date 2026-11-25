@@ -202,3 +202,9 @@ One row per finding per month (overdue reassessments, ratio breaches, late payme
 Columns, in order: `month`, `finding_type`, `ref_id`, `detail`
 
 Binding choices: bills are issued in arrears on the 1st of the next month and fall due on the 10th; pro-rating uses calendar days of the month; a week runs Monday to Sunday; shifts are 12 h. bill_id format BILL-<resident_id>-<YYYY-MM>; `line_type` FEE, HOSPITAL_RETENTION, ADDON, CONSUMABLE, HANDLING, NOTICE_CHARGE, REFUND, DEPOSIT_ADJUSTMENT, INTEREST; `basis` ASSESSMENT, FALL_RISK, FALL_ESCALATION.
+
+## Project Demonstration Video
+
+Watch the demonstration of the PS-128 Elderly Care Home Billing and Staffing Ratio Engine.
+
+[Watch Project Demonstration Video](./PS128_Project_Demonstration_under_25MB.mp4)
